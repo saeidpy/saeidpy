@@ -1,6 +1,5 @@
 # 💫 About Me:
-Experienced Front-End Engineer with over 5 years of expertise in React, Nextjs, TypeScript, JavaScript, Redux, and other leading-edge technologies. I successfully delivered projects ranging from small-scale enhancements to large-scale applications. Specializing in optimizing user interfaces and implementing real-time solutions, I've collaborated with cross-functional teams of up to 12 members to drive successful outcomes. With a proven track record in finance, cryptocurrency, and ERP systems, I bring a wealth of innovative thinking and a commitment to achieving tangible results, seeking a challenging role to leverage my technical expertise, foster innovation, and drive forward the frontier of web development.
-
+Experienced **Front-End Engineer with over 5 years** of expertise in React, Next.js, TypeScript, JavaScript, and Redux. I’ve delivered projects ranging from small enhancements to large-scale applications, specializing in optimizing UIs and real-time solutions. With a proven track record in finance, cryptocurrency, and ERP systems, I’m passionate about leveraging my skills to drive innovation and create impactful, high-performance applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saeid-pourgohari/) 
